@@ -1,0 +1,48 @@
+.picture
+{
+    margin-top: 50px;
+}
+
+.rounded-3
+{
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+.Profile
+{
+    margin-top: 30px;
+}
+
+.description
+{
+    font-size:small;
+    width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#profile.icons 
+{
+    list-style: none;
+}
+
+.profileicons
+{
+    width: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.container
+{
+    margin-top: 50px;
+}
